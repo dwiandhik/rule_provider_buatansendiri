@@ -1,0 +1,10 @@
+payload:
+ # Telkomsel
+  - DOMAIN-SUFFIX,ciam.telkomsel.com
+  - DOMAIN-SUFFIX,tdw.telkomsel.com
+  - DOMAIN-SUFFIX,prd-idn-telkomsel-dap.timwe.com
+  - DOMAIN-SUFFIX,tdwcontent.telkomsel.com
+  - DOMAIN-KEYWORD,telkomsel.com
+  - DOMAIN-KEYWORD,mytelkomselprod.api.useinsider.com
+  - DOMAIN-KEYWORD,tdwcontent.telkomsel.com
+  - DOMAIN-KEYWORD,ciam.telkomsel.com
